@@ -52,7 +52,6 @@ def read_signal_from_wav(filename="Encoded1.wav"):
 
 
 # decode the signal
-# decode the signal
 def decode_signal(signal):
     decoded_string = ""
     zeros = np.argwhere(signal == 0).ravel()  # get the indices of the zeros
