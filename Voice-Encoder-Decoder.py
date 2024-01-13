@@ -138,7 +138,6 @@ def band_pass_filter_decoder(signal):
 
 
 # plot time and frequency domain of the signal in the same figure
-# plot time and frequency domain of the signal in the same figure
 def plot_signal(signal, sampling_freq):
     t = np.linspace(0, len(signal) / sampling_freq, len(signal), endpoint=False)
     # Compute the frequency domain
