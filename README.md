@@ -26,13 +26,13 @@ This project involves encoding and decoding text messages using a simple frequen
 1. **Dependencies:**
    - Install the required libraries using the following command:
      ```bash
-     pip install numpy scipy matplotlib sounddevice
+     pip install numpy scipy matplotlib sounddevice tkinter
      ```
 
 2. **Run the Code:**
-   - Run the script `AudioEncoderDecoderGUI.py` using Python:
+   - Run the script `Encoder-Decoder-GUI.py.py` using Python:
      ```bash
-     python AudioEncoderDecoderGUI.py
+     python Encoder-Decoder-GUI.py.py
      ```
    - The GUI window will appear, allowing you to interact with the application.
 
@@ -51,5 +51,5 @@ Feel free to experiment with different input strings and explore the decoding me
 **Note:** Ensure that the input string contains only small letters (a-z) and spaces for accurate encoding.
 
 ```plaintext
-Author: [Amr Halahla]
-GitHub Repository: [https://github.com/Amr-HAlahla/DSP-Course-Project]
+Author: Amr Halahla
+GitHub Repository: https://github.com/Amr-HAlahla/DSP-Course-Project
